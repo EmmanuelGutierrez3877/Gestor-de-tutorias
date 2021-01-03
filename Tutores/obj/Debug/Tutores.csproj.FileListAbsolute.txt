@@ -1,0 +1,68 @@
+C:\Users\Usuario\Desktop\Tutores\Tutores\bin\Debug\Tutores.exe.config
+C:\Users\Usuario\Desktop\Tutores\Tutores\bin\Debug\Tutores.exe
+C:\Users\Usuario\Desktop\Tutores\Tutores\bin\Debug\Tutores.pdb
+C:\Users\Usuario\Desktop\Tutores\Tutores\obj\Debug\Tutores.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Tutores\Tutores\obj\Debug\Tutores.Form1.resources
+C:\Users\Usuario\Desktop\Tutores\Tutores\obj\Debug\Tutores.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Tutores\Tutores\obj\Debug\Tutores.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Tutores\Tutores\obj\Debug\Tutores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tutores\Tutores\obj\Debug\Tutores.exe
+C:\Users\Usuario\Desktop\Tutores\Tutores\obj\Debug\Tutores.pdb
+C:\Users\Usuario\Desktop\Tutores\Tutores\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Desktop\Tutores\Tutores\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Desktop\Tutores\Tutores\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\Desktop\Tutores\Tutores\obj\Debug\Tutores.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Tutores\Tutores\obj\Debug\Tutores.Login.resources
+C:\Users\Usuario\Desktop\Tutores\Tutores\obj\Debug\Tutores.Administrardor.resources
+C:\Users\Usuario\Desktop\Tutores (2)\Tutores\bin\Debug\Tutores.exe.config
+C:\Users\Usuario\Desktop\Tutores (2)\Tutores\bin\Debug\Tutores.exe
+C:\Users\Usuario\Desktop\Tutores (2)\Tutores\bin\Debug\Tutores.pdb
+C:\Users\Usuario\Desktop\Tutores (2)\Tutores\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Desktop\Tutores (2)\Tutores\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Desktop\Tutores (2)\Tutores\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\Desktop\Tutores (2)\Tutores\obj\Debug\Tutores.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Tutores (2)\Tutores\obj\Debug\Tutores.Administrardor.resources
+C:\Users\Usuario\Desktop\Tutores (2)\Tutores\obj\Debug\Tutores.Form1.resources
+C:\Users\Usuario\Desktop\Tutores (2)\Tutores\obj\Debug\Tutores.Login.resources
+C:\Users\Usuario\Desktop\Tutores (2)\Tutores\obj\Debug\Tutores.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Tutores (2)\Tutores\obj\Debug\Tutores.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Tutores (2)\Tutores\obj\Debug\Tutores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tutores (2)\Tutores\obj\Debug\Tutores.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Tutores (2)\Tutores\obj\Debug\Tutores.exe
+C:\Users\Usuario\Desktop\Tutores (2)\Tutores\obj\Debug\Tutores.pdb
+C:\Users\Usuario\Desktop\Tutores (3)\Tutores\bin\Debug\Tutores.exe.config
+C:\Users\Usuario\Desktop\Tutores (3)\Tutores\bin\Debug\Tutores.exe
+C:\Users\Usuario\Desktop\Tutores (3)\Tutores\bin\Debug\Tutores.pdb
+C:\Users\Usuario\Desktop\Tutores (3)\Tutores\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Desktop\Tutores (3)\Tutores\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Desktop\Tutores (3)\Tutores\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\Desktop\Tutores (3)\Tutores\obj\Debug\Tutores.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Tutores (3)\Tutores\obj\Debug\Tutores.Administrardor.resources
+C:\Users\Usuario\Desktop\Tutores (3)\Tutores\obj\Debug\Tutores.Form1.resources
+C:\Users\Usuario\Desktop\Tutores (3)\Tutores\obj\Debug\Tutores.Login.resources
+C:\Users\Usuario\Desktop\Tutores (3)\Tutores\obj\Debug\Tutores.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Tutores (3)\Tutores\obj\Debug\Tutores.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Tutores (3)\Tutores\obj\Debug\Tutores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tutores (3)\Tutores\obj\Debug\Tutores.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Tutores (3)\Tutores\obj\Debug\Tutores.exe
+C:\Users\Usuario\Desktop\Tutores (3)\Tutores\obj\Debug\Tutores.pdb
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\bin\Debug\Tutores.exe.config
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\bin\Debug\Tutores.exe
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\bin\Debug\Tutores.pdb
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\obj\Debug\Tutores.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\obj\Debug\Tutores.Form1.resources
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\obj\Debug\Tutores.Login.resources
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\obj\Debug\Tutores.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\obj\Debug\Tutores.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\obj\Debug\Tutores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\obj\Debug\Tutores.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\obj\Debug\Tutores.exe
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\obj\Debug\Tutores.pdb
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\obj\Debug\Tutores.FormAdministrardor.resources
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\obj\Debug\Tutores.FormBitacora.resources
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\obj\Debug\Tutores.FormPlan.resources
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\obj\Debug\Tutores.FormPlan2.resources
+C:\Users\Usuario\Desktop\Tutores (4)\Tutores\obj\Debug\Tutores.FormActividad.resources
